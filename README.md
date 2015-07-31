@@ -27,4 +27,5 @@ rubyおよび各gemをインストールしてください。
 ## history
 
 2015/07/31 - update README
+
 2015/07/29 - create Repository
